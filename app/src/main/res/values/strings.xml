@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FizzBuzz</string>
+    <string name="fizzWordLabel">First word</string>
+    <string name="fizzMultipleLabel">First multiple</string>
+    <string name="buzzWordLabel">Second word</string>
+    <string name="buzzMultipleLabel">Second multiple</string>
+    <string name="limitLabel">Limit</string>
+    <string name="confirm">Confirm</string>
+    <string name="emptyWordError">The word cannot be empty</string>
+    <string name="numberTooHighError">The number is too high</string>
+    <string name="negativeNumberError">The number must be strictly positive</string>
+    <string name="emptyNumberError">A number must be specified</string>
+    <string name="back">Back</string>
+</resources>
